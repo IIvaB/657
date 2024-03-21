@@ -1,0 +1,16 @@
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\bin\Debug\net8.0-windows\PZlab3.exe
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\bin\Debug\net8.0-windows\PZlab3.deps.json
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\bin\Debug\net8.0-windows\PZlab3.runtimeconfig.json
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\bin\Debug\net8.0-windows\PZlab3.dll
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\bin\Debug\net8.0-windows\PZlab3.pdb
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\obj\Debug\net8.0-windows\PZlab3.Form1.resources
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\obj\Debug\net8.0-windows\PZlab3.csproj.GenerateResource.cache
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\obj\Debug\net8.0-windows\PZlab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\obj\Debug\net8.0-windows\PZlab3.AssemblyInfoInputs.cache
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\obj\Debug\net8.0-windows\PZlab3.AssemblyInfo.cs
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\obj\Debug\net8.0-windows\PZlab3.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\obj\Debug\net8.0-windows\PZlab3.dll
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\obj\Debug\net8.0-windows\refint\PZlab3.dll
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\obj\Debug\net8.0-windows\PZlab3.pdb
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\obj\Debug\net8.0-windows\PZlab3.genruntimeconfig.cache
+C:\Users\Ivan Budniak\source\repos\PZlab3\PZlab3\obj\Debug\net8.0-windows\ref\PZlab3.dll
